@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Colocviu2BTC</string>
+    <string-array name="information_types">
+        <item>code</item>
+        <item>rate</item>
+        <item>description</item>
+        <item>rate_float</item>
+        <item>all</item>
+    </string-array>
+</resources>
